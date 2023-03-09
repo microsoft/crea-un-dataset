@@ -15,8 +15,15 @@ la ruta de borja esta abierta, 0, 1
 
 [![Introducción a Ciencia de Datos con Python](https://img.youtube.com/vi/zQ_AA5u4pOU/0.jpg)](https://youtu.be/zQ_AA5u4pOU "Introducción a Ciencia de Datos con Python")
 
+## Completa el reto
 
-## Objetivos
+Empieza esta leccion abriendo el archivo [main.py](./main.py) y completando todos los pasos.
+
+El archivo incluye comentarios que te guiaran en el proceso y la funcion `main()` que se encargara de ejecutar el codigo. No te olvides de actualizar la funcion para usar los datos limpios que vas agregando!
+
+Si tienes dudas, usa el video como guia.
+
+### Objetivos
 
 1. Limpiar los datos, linea por linea con Python
 2. Reducir el numero de datos identificando duplicados
@@ -24,7 +31,6 @@ la ruta de borja esta abierta, 0, 1
 4. Identificar si las rutas estan abiertas o cerradas, usando un 0 para cerrado y un 1 para abierto
 5. Crear un archivo CSV con los datos limpios y ordenados
 
-## Archivos
 
 ## Recursos
 
