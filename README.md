@@ -1,33 +1,33 @@
-# Project
+# Crea un Dataset desde cero con Python
+En este repositorio encontrarás un tutorial para crear un Dataset desde cero con Python. Tendras que procesar un archivo de texto, limiparlo, ordernalo con el fin de crear un archivo de CSV (comma separated values) que podras utilizar para entrenar un modelo de Machine Learning.
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
+Este tutorial se basa en un **caso real**, donde una comunidad de voluntarios usa una pagina web para anunciar si las rutas de bicicleta de montaña estan abiertas o cerradas. Hay dos rutas: Valenciana y Borja. El objetivo de este tutorial es crear un CSV con Python que resulte en un ejemplo como este:
 
-As the maintainer of this project, please make a few updates:
+```csv
+status, valenciana, borja
+todas las rutas estan abiertas, 1, 1
+todas las rutas estan cerradas, 0, 0
+la ruta de valenciana esta abierta, 1, 0
+la ruta de borja esta abierta, 0, 1
+```
 
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
+🤔 Si deseas aprender con una leccion usa el siguiente video:
 
-## Contributing
+[![Introducción a Ciencia de Datos con Python](https://img.youtube.com/vi/zQ_AA5u4pOU/0.jpg)](https://youtu.be/zQ_AA5u4pOU "Introducción a Ciencia de Datos con Python")
 
-This project welcomes contributions and suggestions.  Most contributions require you to agree to a
-Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
-the rights to use your contribution. For details, visit https://cla.opensource.microsoft.com.
 
-When you submit a pull request, a CLA bot will automatically determine whether you need to provide
-a CLA and decorate the PR appropriately (e.g., status check, comment). Simply follow the instructions
-provided by the bot. You will only need to do this once across all repos using our CLA.
+## Objetivos
 
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
-For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
-contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+1. Limpiar los datos, linea por linea con Python
+2. Reducir el numero de datos identificando duplicados
+3. Normalizar el texto con minúsculas 
+4. Identificar si las rutas estan abiertas o cerradas, usando un 0 para cerrado y un 1 para abierto
+5. Crear un archivo CSV con los datos limpios y ordenados
 
-## Trademarks
+## Archivos
 
-This project may contain trademarks or logos for projects, products, or services. Authorized use of Microsoft 
-trademarks or logos is subject to and must follow 
-[Microsoft's Trademark & Brand Guidelines](https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/usage/general).
-Use of Microsoft trademarks or logos in modified versions of this project must not cause confusion or imply Microsoft sponsorship.
-Any use of third-party trademarks or logos are subject to those third-party's policies.
+## Recursos
+
+- [Leccion en vivo del Mes de Datos](https://youtu.be/zQ_AA5u4pOU)
+- [Ruta de aprendizaje de Microsoft Learn](https://learn.microsoft.com/es-es/training/paths/beginner-python/?WT.mc_id=academic-0000-alfredodeza)
+- [GitHub Copilot Gratis para estudiantes](https://aka.ms/Copilot4Students)
