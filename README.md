@@ -1,5 +1,5 @@
 # Crea un Dataset desde cero con Python
-En este repositorio encontrarás un tutorial para crear un Dataset desde cero con Python. Tendras que procesar un archivo de texto, limiparlo, ordernalo con el fin de crear un archivo de CSV (comma separated values) que podras utilizar para entrenar un modelo de Machine Learning.
+En este repositorio encontrarás un tutorial para crear un _dataset_ desde cero con Python. Tendras que procesar un archivo de texto, limiparlo, ordernalo con el fin de crear un archivo de CSV (comma separated values) que podras utilizar para entrenar un modelo de Machine Learning.
 
 Este tutorial se basa en un **caso real**, donde una comunidad de voluntarios usa una pagina web para anunciar si las rutas de bicicleta de montaña estan abiertas o cerradas. Hay dos rutas: Valenciana y Borja. El objetivo de este tutorial es crear un CSV con Python que resulte en un ejemplo como este:
 
@@ -36,4 +36,5 @@ Si tienes dudas, usa el video como guia.
 
 - [Leccion en vivo del Mes de Datos](https://youtu.be/zQ_AA5u4pOU)
 - [Ruta de aprendizaje de Microsoft Learn](https://learn.microsoft.com/es-es/training/paths/beginner-python/?WT.mc_id=academic-0000-alfredodeza)
+- [Azure para estudiantes con credito incluido](https://azure.microsoft.com/free/students/?WT.mc_id=academic-91581-alfredodeza)
 - [GitHub Copilot Gratis para estudiantes](https://aka.ms/Copilot4Students)
